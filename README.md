@@ -25,7 +25,3 @@ Run Streamlit app:
 streamlit run Streamlit_Credit_Card_Fraud_Detection.ipynb
 (If you convert it to .py, run the .py file.)
 
-
-Decision Tree
-
-Other ML models (depending on your notebook)
